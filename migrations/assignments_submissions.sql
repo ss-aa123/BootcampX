@@ -14,4 +14,6 @@ CREATE TABLE assignment_submissions (
   student_id INTEGER REFERENCES students(id) ON DELETE CASCADE,
   duration INTEGER,
   submission_date DATE
-)
+);
+
+
