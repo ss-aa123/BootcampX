@@ -40,3 +40,5 @@ Queries for assignment_submission entity :
   student_id: The id of the student
   duration: The time it took the student to complete the assignment
   submission_date: The date is was submitted
+
+
